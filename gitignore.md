@@ -1,7 +1,6 @@
 Gitignore
 =========
 
-
 Titles
 ------
 Each section of the gitignore should be denoted by a title surrounded by hashes. There should be three spaces between the first hash on the left and the beginning of the title. There should also be three spaces before the last hash. If the title is not the first line of the document, then two blank lines should precede. A single blank line should always follow it.
