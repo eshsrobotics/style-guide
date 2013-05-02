@@ -16,11 +16,23 @@ Braces should always go on the next line.
 
     public void myMethod()
     {
+        if(1 < 2)
+        {
+        }
+        
+        for(int i = 0; i < 100; i++)
+        {
+        }
     }
 
 not
 
     public void myBadMethod() {
+        if(1 < 2) {
+        }
+        
+        for(int i = 0; i < 100; i++) {
+        }
     }
 
 
