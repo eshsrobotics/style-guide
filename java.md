@@ -1,6 +1,8 @@
 Java
 ====
 
+This style guide will be finished later. For now, just format your code using [Artistic Style](http://astyle.sourceforge.net/) with `astylerc` found in the [dotfiles](https://github.com/eshsrobotics/dotfiles) repository.
+
 Quality Over Functionality
 --------------------------
 
