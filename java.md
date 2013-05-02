@@ -3,10 +3,10 @@ Java
 
 This style guide will be finished later. For now, just format your code using [Artistic Style](http://astyle.sourceforge.net/) with `astylerc` found in the [dotfiles](https://github.com/eshsrobotics/dotfiles) repository.
 
-Quality Over Functionality
---------------------------
+Quality Code
+------------
 
-Make your code beautiful and eloquent before making it functional. Your code is everyone's code, so make it good!
+Make your code beautiful and eloquent as possible. Before committing code, ask yourself if it could be written any better. Your code is everyone's code, so make it good!
 
 
 Braces
